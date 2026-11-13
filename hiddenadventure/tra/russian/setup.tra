@@ -100,7 +100,8 @@ THAC0: -1
 
 
 //Jerlia's Ore Shop
-@4001    = ~Jerlia's Ore Shop~
+@4001   = ~Jerlia's Ore Shop~
+@4002   = ~Магазин руды Джерлии~
 
 //Elven holy water in the Temple of Lathander
 @5001   = ~Elven holy water in the Temple of Lathander~
